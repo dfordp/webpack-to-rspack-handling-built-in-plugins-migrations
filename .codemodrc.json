@@ -1,0 +1,18 @@
+{
+  "$schema": "https://codemod-utils.s3.us-west-1.amazonaws.com/configuration_schema.json",
+  "name": "webpack-to-rspack/handling-built-in-plugins-migrations",
+  "version": "1.0.0",
+  "engine": "jscodeshift",
+  "private": false,
+  "arguments": [],
+  "meta": {
+    "tags": [
+      "webpack",
+      "version 5",
+      "rspack",
+      "migrations",
+      "built-in-plugins"
+    ],
+    "git": "https://github.com/dfordp/webpack-to-rspack-handling-built-in-plugins-migrations"
+  }
+}
